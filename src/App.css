@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-image:url("/public/Images/Fairy.jpg") ;
+  background-size: cover;
+}
