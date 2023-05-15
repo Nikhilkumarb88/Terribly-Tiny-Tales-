@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Terribly-Tiny-Tales-/static/css/main.10e9b5e5.css",
+    "main.js": "/Terribly-Tiny-Tales-/static/js/main.bf87f4a7.js",
+    "static/js/787.8ec9ecdc.chunk.js": "/Terribly-Tiny-Tales-/static/js/787.8ec9ecdc.chunk.js",
+    "static/media/Fairy.jpg": "/Terribly-Tiny-Tales-/static/media/Fairy.76838ab98bfa2d458243.jpg",
+    "index.html": "/Terribly-Tiny-Tales-/index.html",
+    "main.10e9b5e5.css.map": "/Terribly-Tiny-Tales-/static/css/main.10e9b5e5.css.map",
+    "main.bf87f4a7.js.map": "/Terribly-Tiny-Tales-/static/js/main.bf87f4a7.js.map",
+    "787.8ec9ecdc.chunk.js.map": "/Terribly-Tiny-Tales-/static/js/787.8ec9ecdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e9b5e5.css",
+    "static/js/main.bf87f4a7.js"
+  ]
+}
